@@ -1,17 +1,9 @@
-# **Mental Health** {#mental-health}
-
+# Mental Health {#mental-health}
 We value your mental health and wellbeing. If you’re feeling down and need someone to talk to, please reach out to me, fellow lab members, the grad advising staff, or [UW mental health](https://www.washington.edu/counseling/) or other professional services. In fact, as the child of a professional therapist, I strongly advocate for therapy at *any* moment of your life (*i.e.,* proactive therapy). Your graduate health insurance (GAIP) covers mental health services. Below, I enumerate some general mental health strategies that have worked for me, which build on my work-life strategies described above.
-
-## **Some mental health strategies** {#some-mental-health-strategies}
-
-### *“Feelgood” folder*  {#“feelgood”-folder}
-
+## Some mental health strategies {#some-mental-health-strategies}
+### “Feelgood” folder  {#“feelgood”-folder}
 Shortly after becoming a professor, I read an [article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/) by [Radhika Nagpal](https://www.radhikanagpal.org/) on strategies to survive tenure-track, which made a significant impact on me. One strategy I still employ is simple but effective: have a ‘feelgood’ email folder to serve as an anecdote to the rejections and criticisms so common in academia. As Nagpal says:
-
 *“ when I take 15 minutes and browse though my ‘feelgood’ folder, a little bit of that feeling of happiness comes back. Just reading the emails transports me back to those different moments. It’s fleeting, but effective. And it’s real. Good things happened to me, and I have no reason to think that good things won’t happen to me again in the future. Helps me counter the feeling of rejection, and move constructively towards a fix.”*
-
-### *Your work is not your worth or identity*  {#your-work-is-not-your-worth-or-identity}
-
+### Your work is not your worth or identity  {#your-work-is-not-your-worth-or-identity}
 While sometimes difficult, it is important to separate your self-worth from your work. I like this quote from US politician [Alexandria Ocasio-Cortez](https://twitter.com/timjhogan/status/1424457048566157315?s=20), who is the youngest woman to serve in Congress:
-
-*“ \[Do not\] look to work for 100% of your satisfaction in life. It should not and cannot all come from your job, no matter how great or hard your job is. You have to build a life beyond your job and expecting your job to give you all your happiness isn’t going to work. … The things you do outside of your job are just as important to your happiness as inside your job. It’s about making a LIFE, not just a career.”*
+*“ [Do not] look to work for 100% of your satisfaction in life. It should not and cannot all come from your job, no matter how great or hard your job is. You have to build a life beyond your job and expecting your job to give you all your happiness isn’t going to work. … The things you do outside of your job are just as important to your happiness as inside your job. It’s about making a LIFE, not just a career.”*
