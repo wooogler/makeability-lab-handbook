@@ -1,11 +1,6 @@
-# **My Expectations** {#my-expectations}
-
-You are here to learn, to grow as a researcher, a mentor, and a teacher, and to develop and build skills for a future career (whether in industry or academia). I am here to help you, to mentor you, and to teach you. I want you to succeed. But this is *your* career and *your* PhD. 
-
-I expect you to uphold the values above and to take responsibility for your progress through the PhD program. I expect you to work hard, to meet your commitments, and to manage your time responsibly. I find that I work best with students who are intrinsically driven, who challenge and push themselves to learn, to grow, and to attain ambitious goals, who self-set and meet a high standard of excellence and work quality, who work towards making consistent progress from week-to-week (failures are expected, of course, and essential to progress\!), and who are organized and strong communicators. 
-
-I will help you at each stage of your PhD. As you progress, you will need to demonstrate your ability to lead a research project from end-to-end. I will help you scope a dissertation that is appropriate to your career goals. The process should be rewarding but it will not always be easy. It will take time, dedication, and hard work. 
-
+# My Expectations {#my-expectations}
+You are here to learn, to grow as a researcher, a mentor, and a teacher, and to develop and build skills for a future career (whether in industry or academia). I am here to help you, to mentor you, and to teach you. I want you to succeed. But this is *your* career and *your* PhD.
+I expect you to uphold the values above and to take responsibility for your progress through the PhD program. I expect you to work hard, to meet your commitments, and to manage your time responsibly. I find that I work best with students who are intrinsically driven, who challenge and push themselves to learn, to grow, and to attain ambitious goals, who self-set and meet a high standard of excellence and work quality, who work towards making consistent progress from week-to-week (failures are expected, of course, and essential to progress!), and who are organized and strong communicators.
+I will help you at each stage of your PhD. As you progress, you will need to demonstrate your ability to lead a research project from end-to-end. I will help you scope a dissertation that is appropriate to your career goals. The process should be rewarding but it will not always be easy. It will take time, dedication, and hard work.
 My time is valuable as is yours. I will commensurately invest in students who invest in themselves.
-
 If you have a particular need or workstyle that is not being met, I encourage you to let me know. Every student is different. Let’s work together to help you reach your PhD and career goals.
