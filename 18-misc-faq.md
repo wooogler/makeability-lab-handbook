@@ -1,13 +1,9 @@
-# **Misc FAQ** {#misc-faq}
-
+# Misc FAQ {#misc-faq}
 Below, I’ve written a collection of frequently asked questions and my responses.
-
-## **Should I pursue the thesis option in the BS/MS program and will you supervise my BS/MS thesis?** {#should-i-pursue-the-thesis-option-in-the-bs/ms-program-and-will-you-supervise-my-bs/ms-thesis?}
-
+## Should I pursue the thesis option in the BS/MS program and will you supervise my BS/MS thesis? {#should-i-pursue-the-thesis-option-in-the-bs/ms-program-and-will-you-supervise-my-bs/ms-thesis?}
 This is a complex question with a complex answer that largely depends on your career goals, your reasons for doing the thesis option (and your expected value return), and your expectations and needs for supervision to successfully conduct meaningful research. So, before going further, ask yourself: *Why do I want to pursue the thesis option? What do I hope to gain and learn?* Then read:
-
-1. First and foremost, I will not supervise your BS/MS thesis if you haven’t already been working in the Makeability Lab (*i.e.,* you need acquired research training and experience).  
-2. If you are not interested in pursuing a research-oriented career (i.e., a PhD), I think the ROI on the thesis option is relatively low. It takes significant time, effort, and learning to do a (good) thesis. That said, you do gain the intrinsic fulfillment of doing research, accomplishing a thesis, etc. So, YMMV.  
-3. I have not advised a single Allen School BS/MS thesis in my career—though I advised a series of MS theses as a prof at UMD (some which were Best Papers at CHI and beyond). However, UMD had a two-year MS program independent of its PhD program. The Allen School does not have this.  
-4. In general, I am reluctant to supervise a BS/MS student on their theses largely because of how much advising time it requires to produce a useful scientific result and because this training investment is then soon lost (*i.e.,* the student graduates and leaves). Moreover, BS/MS students do not have much time to do significant research because of their coursework requirements. From my perspective, its significant work to advise a student on impactful research and I would prefer to invest that energy into my PhD students.  
-5. I would consider supervising a BS/MS thesis if it were co-supervised with a Makeability Lab PhD student and the research was on an interesting piece of research that the PhD student needed/wanted accomplished but wasn't on the main track of their dissertation work.
+- First and foremost, I will not supervise your BS/MS thesis if you haven’t already been working in the Makeability Lab (*i.e.,* you need acquired research training and experience).
+- If you are not interested in pursuing a research-oriented career (i.e., a PhD), I think the ROI on the thesis option is relatively low. It takes significant time, effort, and learning to do a (good) thesis. That said, you do gain the intrinsic fulfillment of doing research, accomplishing a thesis, etc. So, YMMV.
+- I have not advised a single Allen School BS/MS thesis in my career—though I advised a series of MS theses as a prof at UMD (some which were Best Papers at CHI and beyond). However, UMD had a two-year MS program independent of its PhD program. The Allen School does not have this.
+- In general, I am reluctant to supervise a BS/MS student on their theses largely because of how much advising time it requires to produce a useful scientific result and because this training investment is then soon lost (*i.e.,* the student graduates and leaves). Moreover, BS/MS students do not have much time to do significant research because of their coursework requirements. From my perspective, its significant work to advise a student on impactful research and I would prefer to invest that energy into my PhD students.
+- I would consider supervising a BS/MS thesis if it were co-supervised with a Makeability Lab PhD student and the research was on an interesting piece of research that the PhD student needed/wanted accomplished but wasn't on the main track of their dissertation work.
