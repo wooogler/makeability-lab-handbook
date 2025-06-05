@@ -1,0 +1,30 @@
+# **Writing Reviews** {#writing-reviews}
+
+In our field, our scientific papers are submitted to venues like CHI, UIST, ASSETS, and beyond and then undergo “dual-anonymous” (or “double-masked”) peer review.(This term used to be called “double-blind review” but is an ableist framing and not appropriate to use.) This means that both the paper is anonymous—we do not put our titles or affiliations on the paper for review—and that we do not know the identity of our reviewers.
+
+While review criteria can differ depending on field and publication venue, the primary criterion for judging a paper at CHI is “*Does this submission provide a strong research contribution to the field of HCI?*” This, of course, is not always so easy to determine and requires expertise in the field and an understanding of “strong”. For CHI’24, they’ve broken down review criteria into primary categories, including:
+
+* **Originality:** what new ideas or approaches are introduced? We want to emphasize that an acceptable paper must make a clear contribution to Human-Computer Interaction;  
+* **Significance:** evaluate the paper's contribution to HCI and the benefit that others can gain from the contribution: why do the contribution and benefit matter?  
+* **Research quality:** how confidently can researchers and practitioners use the results?  
+* **Previous work:** is prior work adequately reviewed?  
+* **Presentation clarity:** how well is the paper framed and is the argument clear throughout the paper?
+
+Like anything, writing reviews takes time, effort, and iteration. You will get better with practice. There are also courses and online resources such as Professor Lennart E. Nacke’s short course previously offered at CHI *How to Write and Review CHI Papers*, which he has given since 2017 (see the [course overview here](https://dl.acm.org/action/doSearch?AllField=How+to+Write+and+Review+CHI+Papers), which also has some helpful advice).
+
+## **Example Reviews** {#example-reviews}
+
+As a graduate student and junior scholar, I adopted a rigorous, critical eye for each review—carefully examining every section and sentence to determine quality and validity but with an overall philosophy of “*this paper better prove to me it is worthy of acceptance*.” I suppose, over time, I have softened my perspective: each paper and underlying system or study has flaws. The key is: *does the paper advance the literature in interesting/impactful ways despite those flaws?* Notably, this is a relativist framing not an absolute one and contributions, then, must be deeply situated in the relevant literature (by the authors, ideally) to assess such things. Moreover, my overall tone has shifted from one of criticism to one of support: how can I help the authors improve their work and correct underlying flaws?
+
+And perhaps my most important tenet: write a review like you would want received for your own paper. 😊
+
+Since my students have asked, I have provided some example reviews that I wrote 7+ years ago to help them better understand how I approach reviewing and structure my reviews ([link](https://drive.google.com/drive/folders/1Tz6pyYdxyy5Ks1EqEJ4iwvLX1MFzNtYr)). This is a private, curated set of reviews. Importantly, these example reviews are for my students *only* and not to be shared (students, please do not download them locally but view them in your browser). Even though much time has passed, revealing my identity for these reviews would break the principle of “double-anonymous” reviewing and, perhaps, cause emotional hardship or embarrassment for me or others.
+
+I am also happy to supply reviews we have received for any of our previous papers—assuming I still have them (sometimes, it is best to let them float away with time). Indeed, we provide some examples in the [Writing Rebuttals subsection](#writing-rebuttals) of this handbook.
+
+## **Resources** {#resources-2}
+
+* [Guide to Reviewing Papers](https://chi2024.acm.org/submission-guides/guide-to-reviewing-papers/), CHI’24  
+* [An Unofficial Guide to Seven Stages of Reviewing for CHI](https://nehakumar.medium.com/an-unofficial-guide-to-seven-stages-of-reviewing-for-chi-7938880fc895), Neha Kumar, Sep 2020  
+* [ACL’23 Peer Review Policies](https://2023.aclweb.org/blog/review-acl23/)  
+* [How to Become Good at Peer Review: A Guide for Young Scientists](https://violentmetaphors.com/2013/12/13/how-to-become-good-at-peer-review-a-guide-for-young-scientists/), Jennifer Raff, Dec 2023

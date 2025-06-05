@@ -1,0 +1,65 @@
+# **The Makeability Lab Mission and Core Values** {#the-makeability-lab-mission-and-core-values}
+
+The Makeability Lab is part of the Allen School and broader UW HCI (“DUB”) community. Below, we describe our research mission and core values.
+
+## **Research Mission** {#research-mission}
+
+Our research mission is to: 
+
+*Design, build, and study interactive tools and techniques that address pressing societal challenges*. 
+
+Towards this mission, we are inspired by and take direction from the [UN’s Sustainable Development Goals](http://www.engineeringchallenges.org/) and the [NAE’s Grand Challenges for Engineering](http://www.engineeringchallenges.org/). Our lab has done significant work in environmental sustainability, accessibility, and STE(A)M education. 
+
+To achieve impact, we collaborate across disciplines with a focus on identifying long-term, ambitious research problems that can also provide immediate, practical utility such as [Project Sidewalk](https://projectsidewalk.org/), a publicly deployed research system that has resulted in over 1 million crowdsourced urban accessibility labels, and [SoundWatch](https://makeabilitylab.cs.washington.edu/project/soundwatch/), a research prototype available on the Google Play Store. I am particularly interested in the intersection of multiple grand challenge goals: for example, how accessible sidewalks can also generally improve public health and environmentally sustainable transportation choices (*e.g.,* walking, biking). 
+
+Typically, our lab’s research involves inventing or reappropriating methods to sense physical or behavioral phenomena, leveraging techniques in computer vision (CV) and machine learning (ML) to interpret and characterize this data, then building and evaluating interactive software or hardware tools uniquely enabled by these approaches. For example, 
+
+* [Project Sidewalk](http://projectsidewalk.org) combines Crowd+AI approaches to scalably map and assess sidewalk accessibility from online imagery,   
+* [SoundWatch](https://makeabilitylab.cs.washington.edu/project/soundwatch/) uses always-available microphones and real-time machine learning to provide sound notifications to people who are deaf or hard of hearing,   
+* [MakerWear](https://makeabilitylab.cs.washington.edu/projects/makerwear/) integrates digitally fabricated computational modules with e-textiles to support custom wearable creation, and   
+* [ARMath](https://makeabilitylab.cs.washington.edu/project/armath/) uses real-time computer vision and augmented reality interfaces to enable children to discover mathematical concepts in familiar, ordinary objects. 
+
+Often this work is grounded in formative studies of/with key stakeholders to advance understanding of problem spaces and inform our solutions—for example, Hara *et al.*’s interview study examining assistive location-based technologies ([CHI’16](https://makeabilitylab.cs.washington.edu/media/publications/Hara_TheDesignOfAssistiveLocationBasedTechnologiesForPeopleWithAmbulatoryDisabilitiesAFormativeStudy_2016.pdf)) or Findlater *et al*.’s survey of Deaf and hard-of-hearing individuals’ preferences for sound awareness technologies ([CHI’19](https://makeabilitylab.cs.washington.edu/media/publications/Findlater_DeafAndHardOfHearingIndividualsPreferencesForWearableAndMobileSoundAwarenessTechnologies_2019.pdf)). 
+
+I am broadly interested in HCI research that has a social impact focus. Our research together will have its own flavor, conveying both your unique interests and skills.
+
+## **Our Disciplinary Home** {#our-disciplinary-home}
+
+Although an interdisciplinary group, the Makeability Lab sits within the [UW Allen School of Computer Science](https://www.cs.washington.edu/). I can also advise students in [Urban Design and Planning](https://urbdp.be.uw.edu/) within the College of Built Environments, where I am Core Faculty, and I commonly work with PhD students in the [iSchool](https://ischool.uw.edu/) and [HCDE](https://www.hcde.washington.edu/).
+
+## **Core Values** {#core-values}
+
+The following Makeability values represent who we are and continually strive to be. They help define and unify us.
+
+**Mutual respect and support.** The Makeability Lab is founded on mutual respect, trust, and support. We respect and support one another through our words and actions. If someone makes you uncomfortable, please let me know immediately. If I am the source of discomfort, I would hope that you could approach me—either in the moment or afterwards. If you don’t feel comfortable reaching out to me, you can involve our [grad advising staff](https://www.cs.washington.edu/academics/phd/advising). Alternatively, you could fill out this [anonymous Makeability Lab feedback form](https://forms.gle/bS4oqmEkhABBP9gT8) or a similar [feedback form](https://feedback.cs.washington.edu/) run by the Allen School.
+
+**Trust.** Trust allows us to take risks, be vulnerable, and cooperate more efficiently(See [Krot & Lewicka, IJEBM 2021](https://www.proquest.com/openview/dae58a84335b41d80fa73220e080beb3/1?pq-origsite=gscholar&cbl=237699)). It is foundational to any relationship—personal or professional. We must trust each other and our labmates. A challenge for all of us, however, is that trust is *earned* through interaction, experience, and observation. Let us invest in our relationships, be patient, and earn this trust. 
+
+**Elevate others.** How can you make others better as a result of your presence? In the Makeability Lab, we try to elevate others, not diminish them. Your presence in the lab should lift us higher. For example, show interest in other’s work and well being, be constructive and kind in your critiques, volunteer to help review paper drafts, talks, and scholarship applications.
+
+**Togetherness.** Research and graduate school can feel insular. But we are in this together. Seek help. Offer help. Be there for one another. My most fulfilling and exciting collaborations in graduate school were with fellow students—working closely together, learning from one another, and challenging each other to do great work and be better.
+
+**Psychological safety.** We engender and nurture a [psychologically safe](https://www.strategy-business.com/article/How-Fearless-Organizations-Succeed) environment. All members are free to speak up, to try and fail, to be who they are. This does not mean that we must all agree or provide unequivocal praise but that people feel supported in taking risks and speaking up.
+
+**Culture of excellence.** You are part of one of the top HCI research institutions in the world. In all parts of our work, we strive for excellence and hold ourselves to the highest standards, while acknowledging that, in some cases, perfection is the enemy of done.
+
+**Passionate.** We are passionate about what we do and are grateful for the opportunity.
+
+**![A picture of a sign that says "Help each other" with the Seattle skyline in the background. The sign was put up during the pandemic on top of a hill in Gasworks park.][image9]**  
+Figure. A picture reflects a core value in our lab: “Help each other.” Picture by Jon E. Froehlich shot at Gasworks Park during the COVID pandemic.
+
+**Our best effort.** We push ourselves and each other to do the very best that we can. 
+
+**Accountability.** We hold ourselves accountable. Make commitments to yourself and to your team and meet those commitments. If you struggle, seek help. Be dependable, reliable, and responsible.
+
+**Work-life balance.** We value the richness of life and make time for our friendships, families, and hobbies.
+
+**Feedback.** Feedback is essential to learning, mentorship, research, and innovation. It allows one party to critically reflect on an artifact, process, or experience and help others do better, think differently, and improve. We should constantly be seeking feedback—from me, from your labmates, from your peers, and from critical external stakeholders. 
+
+**Research is collaborative.** We work on cross-disciplinary problems. Understand and assess the limitations of your own knowledge and seek out domain experts—whether it be in technical sub-fields of CS like machine learning or in other disciplines like disability studies, geography, or public health.
+
+**Open science.** We believe strongly in open science. With some exception, our papers should include all data, code, and supplementary materials necessary to support replication and transparency.(As two examples from our lab: (1) the dataset, code, and analysis materials for our [CHI’21 paper](https://dl.acm.org/doi/10.1145/3411764.3445412) by Mack *et al.*, which are split between a [GitHub](https://github.com/makeabilitylab/accessibility-literature-survey) and embedded supplementary materials (as a .zip) on the [ACM DL](https://dl.acm.org/doi/10.1145/3411764.3445412); (2) the participant training guide, image analysis codebook, and debrief interview codebook in Mauriello *et al.*’s [CHI’17 paper](https://dl.acm.org/doi/10.1145/3025453.3025471). For the latter, we could have also considered including the full semi-structured interview script.) 
+
+**Integrity.** Science is nothing without integrity.(While a collective enterprise, science relies and hinges on *individual* integrity. You should never feel pressured to compromise the integrity of your work or yourself. Fabricating data, analyses, or distorting truths are potentially career ending mistakes ([example1](https://www.thecut.com/2015/05/how-a-grad-student-uncovered-a-huge-fraud.html), [example2](https://www.npr.org/sections/thesalt/2018/09/26/651849441/cornell-food-researchers-downfall-raises-larger-questions-for-science), [example3](https://www.sciencemag.org/news/2021/08/fraudulent-data-set-raise-questions-about-superstar-honesty-researcher)).) We hold ourselves to the highest standards of rigor and honesty. 
+
+**Community engagement.** Our research is strongly driven by people and communities. Our intention should always be to *work with* and *contribute* to these communities.

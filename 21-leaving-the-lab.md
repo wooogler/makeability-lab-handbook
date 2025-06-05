@@ -1,0 +1,27 @@
+# **Leaving the lab** {#leaving-the-lab}
+
+There are three primary reasons for leaving the Makeability Lab—all of which are perfectly reasonable and none of which should be framed as or feel like failures (they’re not): (1) you’ve decided to join another research group; (2) you’ve decided to preemptively cease the PhD program (*e.g.,* leave with your MS); (3) you’ve graduated.
+
+## **Joining another research group** {#joining-another-research-group}
+
+At my core, I want what’s best for *you*. When you initially select a graduate school, choose an advisor, move to a new city—you do so with the best information you have at the time with your current knowledge and understanding of your interests and research pursuits. But *who* you are, your interests, and your understanding of research will change significantly in your first few years of the PhD program. 
+
+If you’ve determined that the Makeability Lab and/or my advising style is not a great fit for you, I will help you find an alternative group and advisor, if you’d like. Before making such a decision, I would hope that we could have open, candid discussions about what’s *not* working for you and, perhaps, we can mutually agree and work on remediating steps. Even in the most perfect creative, collaborative relationships, there will be problems. The question is: are the issues surmountable and worthwhile to address?
+
+But regardless, I understand and empathize with how difficult such a decision can be and the potential for awkwardness between us. Again, I truly want what’s best for you and for you to find a healthy, fruitful, and supportive research group.
+
+## **Preemptively leaving graduate school** {#preemptively-leaving-graduate-school}
+
+If you’re admitted into the UW CSE PhD program, I have no doubt that you have the skills and aptitude to succeed in research. But research is not for everyone and it’s hard to know this until you try it. In my life, I have seen some of the most intelligent, creative, and clever people leave academia—departing both graduate school and professorships—and for so many disparate reasons: from determining that academia was not what they envisioned to finding better value alignments in industry to reformulations of life goals.
+
+When I was a graduate student, I attended a confidential NSF-sponsored workshop on graduate school life. The facilitator asked: “*how many of you have thought about leaving the graduate program?”* I was startled that nearly **every single student** raised their hand. I cannot recall whether I did. If not, it was because I was too afraid to admit it publicly. However, I distinctly remember just how many PhD students with raised hands were 4th or 5th years—all whom I greatly looked up to and respected. In my mind, they all seemed so successful, confident, and content(This feeling is not uncommon. See [this tweet](https://twitter.com/TweetAtAKK/status/1434730942812274689?s=20) by UCSD Professor Arun Kumar who, after receiving tenure said, “*I almost quit my PhD midway. Now I am thankful to so many for helping me reach this milestone.*”). In the end, some of these students *did* leave graduate school and have had incredibly fulfilling lives outside of academia. And you would too\!
+
+In CS, we are incredibly privileged with choice. You do not *need* a PhD. You don’t. There are so many other ways in which you can contribute back to society, have fulfilling careers, and make sizable incomes. Indeed, if income is a critical priority for you, getting a PhD is likely not the most financially prudent.  
+
+If you’re considering an early grad school departure, please talk to me and the grad advising staff. We’ll try to help you think through pros/cons and potential next steps. It is often a difficult, emotional, and multi-faceted decision but I support you 100%. Here’s a [relevant \#academictwitter thread](https://twitter.com/Shoshana_Jarvis/status/1428403324483629060?s=20) about leaving academia.
+
+A common time to exit the PhD program is around the qualifying exam, which enables you to graduate and leave with an MS degree.
+
+## **Staying in touch** {#staying-in-touch}
+
+Regardless of *why* you leave, we’d love to stay in touch. You can stay on our Slack workspace and I will move you from the makeabilitylab@cs mailing list to the makeabilitylab-alumni@cs list. Of course, some students choose to completely disconnect—this is also fine. Please let me know if you’d like to be removed from these communication mediums.

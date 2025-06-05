@@ -1,0 +1,237 @@
+# **Funding** {#funding}
+
+Funding is critical to the viability and success of the Makeability Lab and to your PhD. I write grant proposals to fund my summer salary, your RAships (PhD salary, tuition, benefits, and stipend), lab equipment, and study costs (*e.g.,* participant remuneration). For budget numbers and eGC1s, please see the [SAGE admin tool](https://sage.admin.uw.edu/ngEra/uwnetid/sage/budgets) (internal only). 
+
+## **Fundraising** {#fundraising}
+
+As the lab PI, it is ultimately my responsibility to obtain funding and manage lab finances. Writing research proposals, however, is difficult, time consuming, and effortful. What’s worse, the selection process is highly competitive and often unpredictable. It may take\~6-8 weeks (or more\!) to write a high-quality NSF proposal. As an example, I wrote my [NSF CAREER grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1834629&HistoricalAwards=false) in \~3.5 months—two full-time summer months in 2015 for the initial submission, which was rejected, and another \~6 weeks in 2016 on a full rewrite, which was thankfully accepted. 
+
+Despite funding competitiveness, I am grateful that our lab has a consistent and strong record of fundraising from the [NSF](https://www.nsf.gov/index.jsp)(As of 2023, our NSF grants total $5.5m in funding (split across PIs), including: [\#1302338](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1302338), [\#1441184](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1441184&HistoricalAwards=false), [\#1834629](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1834629&HistoricalAwards=false), [\#1763199](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1763199&HistoricalAwards=false), and [\#2125087](https://nsf.gov/awardsearch/showAward?AWD_ID=2125087&HistoricalAwards=false). I am happy to share full proposals. Please ask.), the DoD’s [Clinical and Rehabilitative Medicine Research Program](https://cdmrp.army.mil/dmrdp/jpc8crmrp), the [PacTrans Consortium](http://depts.washington.edu/pactrans/), [UW CREATE](https://create.uw.edu/), [UW’s Global Innovation Fund](https://www.washington.edu/globalaffairs/gif/), and [the UW Reality Lab](https://realitylab.uw.edu/) as well as corporate sponsors like Google, 3M, Facebook, Nokia, and Microsoft. I was also honored to receive a [Sloan Fellowship in 2017](https://news.cs.washington.edu/2017/02/27/uw-cses-ali-farhadi-and-jon-froehlich-win-sloan-research-fellowships/).
+
+Like with research papers, I prefer submitting a fewer number of grants per year and focusing on *quality* rather than *quantity*. 
+
+I am happy to share any grant that I’ve written. If you are interested in grant writing and want to be involved in the process, please let me know.
+
+![][image22]  
+Figure. We are grateful to our funding sponsors. Without funding, we could not perform our research. Image from 2024\. See [https://makeabilitylab.cs.washington.edu/](https://makeabilitylab.cs.washington.edu/). 
+
+### *Funding Types* {#funding-types}
+
+There are two types of research funds at UW: *grants* and *unrestricted gifts*(I suppose a third type is an [endowed professorship](https://www.cs.washington.edu/supportcse/faculty), which provides yearly, unrestricted discretionary funds for those with an endowed position. In the Allen School, endowed professorships are initialized at a level of $1m while endowed chairs are funded at $2m. This high initialization level is important as the goal is to make each endowment self-sustaining via investment. Roughly 4% of each fund is available for faculty expenditure each year and the rest is invested in [UW’s Consolidated Endowment Fund](https://finance.uw.edu/treasury/CEF).). Grants are typically tied to specific projects while unrestricted gifts—often from corporate partners—are more permissive. Most of our lab money comes from grants. Regardless, it is important that we respect these investments and utilize funding wisely.
+
+## **Annual Reports** {#annual-reports}
+
+As you might imagine, funding agencies like the NSF, NIH, or DOD have a reporting infrastructure to ensure that fundees are productive, spending the money as proposed (within some degree of flexibility), and to receive timely updates on research impacts and challenges. While occasionally onerous, these required reports are a good thing—they help the system stay accountable.
+
+To help you understand what an annual report to a federal funding agency looks like, I’ve created an [NSF Annual Report Template](https://docs.google.com/document/d/1HqddhWBLbVBi_yyQ1lh7rxdv2oAfQLQiJnshhGvvthw/edit#) with copy/pasted form fields from the NSF Annual Report webform. The report is divided into five high-level sections: *accomplishments, products, participants* (*i.e.,* who was funded), *impact,* and *changes/problems*. Within each section, the NSF asks between 5-10 questions. Depending on the project, it can take my collaborators and I between 1-3 days to complete a report. 
+
+It is a privilege to receive government funding and other support for our research. Let us honor that funding and hold ourselves to the highest standards when completing the work.
+
+## **No Cost Extensions**
+
+NSF awards are eligible for extensions beyond the original expiration date; these extensions termed “no-cost extensions” require filing paperwork and NSF approval. From the [NSF webpage](https://www.nsf.gov/awards/request-a-change#no-cost-extensions-870):
+
+*A no-cost extension extends a project period beyond the original project end date; there is no additional funding provided.*
+
+*Your award may be eligible for a single grantee-approved no-cost extension for up to 12 months when there are unspent funds remaining in your award account and additional time is needed to successfully complete the original scope of the work.*
+
+*Additional no-cost extensions and other special creativity extensions may be approved by NSF should your project meet certain criteria.*
+
+*Consult [PAPPG VI.D.3.c](https://www.nsf.gov/policies/pappg/24-1/ch-6-nsf-awards#ch6D3c) for a detailed explanation of the circumstances that must be met for a no-cost extension.*
+
+*Follow the [instructions on Research.gov](https://www.research.gov/common/robohelp/public/WebHelp/Notifications___Requests.htm) on how to submit a no-cost extension notification or request online.*
+
+We have some [example no-cost extension requests here](https://docs.google.com/document/d/1xhObPrUI80DeQHoWZJOQybrMLbt5f__m11wtRhF72D4/edit?tab=t.0). Historically, the first request is generally accepted.
+
+## **PhD Student Costs(Thanks to Elaine Shelley, Allen School Grants Manager, and Elise deGoede Dorough, Allen School Director of Graduate Student Services, for helping with this section.)** {#phd-student-costs}
+
+In the American university system, advisors pay students via Research Assistantships (RAs), which are typically funded by grants. In the Allen School, we offer three years of guaranteed funding via Teaching Assistantship (TA) or Research Assistantship (RA), excluding summers ([see policy](https://www.cs.washington.edu/academics/phd/handbook/funding#policies)). If I do not have RAship funding for you or you do not have a fellowship, you will TA (see [TAships](#taships) section).
+
+If you TA or RA, you are an *Academic Student Employee* (ASE) and represented by the [United Auto Workers (UAW) union Local 4121](https://hr.uw.edu/labor/academic-and-student-unions/uaw-ase). Your salaries are negotiated by UAW. All salary information is published publicly here: [TA/RA Salaries](https://facstaff.grad.uw.edu/advising-resources/funding-management/administering-assistantships/ta-ra-salaries/). For example, [here](https://facstaff.grad.uw.edu/wp-content/uploads/2023-24_variable-RA-salary-schedule.pdf) is the pay rate salary scale for RAs in Computer Science, HCDE, and Computer Engineering. But this is only part of the story…
+
+Calculating RA costs is complex because it includes salary, benefits, overhead, and tuition. When I write a grant, I need to obtain money to cover *everything* (not just your salary). Let’s define each of these costs before providing a cost breakdown.
+
+* **Salary.** The rate I pay and that you receive for your salary. Your [pay rates](https://www.cs.washington.edu/academics/phd/handbook/ase-rates) are covered by a contract between the UW and a union: the United Auto Workers (UAW).  
+* **Benefits.** The benefits you receive such as healthcare and dental (yes, healthcare and dental are separate in the American insurance industry).  
+* **Overhead.** One way a university makes money is by “taxing” salary+benefits off of grants. This tax, often called “overhead” or “indirect costs” is 55.5% at UW (it was slightly lower at UMD). While a potential source of consternation, think of this tax as a way of paying for UW and Allen School resources like the staff, building, electricity, Internet bandwidth, and being part of a world-class research and teaching university.  
+* **Tuition**. Tuition is the cost of education. Each quarter at UW—whether or not you are specifically taking “courses”—you will enroll as a student and take independent study or research credits. These credits cost money, which again I pay for out of my grant money.
+
+There are also two different Research Assistant (RA) levels, which are paid slightly differently depending on whether the PhD student has passed their [General Examination](https://www.cs.washington.edu/academics/phd/process/generals): RA1 for pre-general students and RA2 for post-general students. 
+
+To fund an RA1 PhD student for a full year on a federal grant (*e.g.,* from NSF or NIH) during the 2024-2025 academic year, my overall cost is **$131,742** (including $37,399 of overhead and $26,957 in tuition). For an RA2 PhD student, the cost increases to **$135,679** (including $38,805 overhead and $26,957 in tuition). For context, the maximum [NSF Small Award](https://new.nsf.gov/funding/opportunities/computer-information-science-engineering-core-programs/nsf24-589/solicitation) is $600,000(In 2020-2021, NSF Smalls were still only $500k ([link](https://new.nsf.gov/funding/opportunities/computer-information-science-engineering-core-programs/nsf20-591/solicitation))), which does not even cover one PhD student for their entire degree. The average graduate student takes \~6 years to graduate (6 years x \~$133,000 RAship \= $798,000). Admittedly, these are worst-case costs that do not factor in TAships or summer internships (see paragraph following tables below).
+
+| PhD Funding Rates 2020-2021 |  |  |  |
+| ----- | :---- | :---- | :---- |
+| RA1 (Pre-Generals) | Quarter Rate | Summer Rate | Total |
+| Salary\*  | $9,921 ($3,187 / mo) | $19,122 ($6,374 / mo) | $48,885 |
+| Benefits (21.6%) | $2,143 | $4,130 | $6,273 |
+| Subtotal Salary \+ Benefits | $12,064 | $23,252 | $35,316 |
+| Indirect Costs (55.5%) | $6,695 | $12,905 | $19,600 |
+| Tuition | $6,151 | $6,218 | $12,369 |
+| Total | $24,910 per quarter | $42,375 | $115,065 |
+
+Table. A cost table for an RA1 PhD student in the Allen School calculated for the 2021-22 academic year. See newer rates (for 2024-2025) below.
+
+| PhD Funding Rates 2024-2025 |  |  |  |
+| ----- | :---- | :---- | :---- |
+| RA1 (Pre-Generals) | Quarter Rate | Summer Rate | Total |
+| Salary\*  | $11,175 | $23,244 | $56,769 |
+| Benefits (21.6%) | $2,090 | $4,347 | $10,617 |
+| Subtotal Salary \+ Benefits | $13,265 | $27,591 | $67,386 |
+| Indirect Costs (55.5%) | $7,362 | $15,313 | $37,399 |
+| Tuition | $6,689 | $6,890 | $26,957 |
+| Total | $27,316 per quarter | $49,794 | $131,742 |
+
+Table. A cost table for an RA1 PhD student in the Allen School calculated for the 2024-2025 academic year. \*During the academic school year (the Fall, Winter, and Spring) quarters, RAs are classified as 50% full-time employees (FTE) with the idea that the other 50% is dedicated to coursework or research study credits. During the summer, RAs can be 100% FTE (but this is up to the student and advisor). Quarters are three months.
+
+There are a couple of additional factors, which may affect costs: first, you will need to TA for some quarters (CSE requires two quarters minimum); second, you will likely intern for one or more summers, third, you may not take a full credit load during the summer for a summer RAship (minimum is 2 credits); finally, some grants—like fellowships and corporate gifts—do not allow overhead, so the indirect costs are eliminated or mitigated. For example, here’s a cost table for a PhD student funded on a gift fund for one quarter. Gift funds are typically quite difficult to acquire but allow me to fund a student, per quarter, at $20,479 vs. $27,316.
+
+| PhD Funding Rates 2024-2025 (From Gift Fund) |  |
+| ----- | :---- |
+| RA1 (Pre-Generals) | Quarter Rate |
+| Salary\*  | $11,175 |
+| Benefits (21.6%) | $2,090 |
+| Subtotal Salary \+ Benefits | $13,265 |
+| CSE Computing Recharge | $525 |
+| Tuition | $6,689 |
+| Total | $20,479 per quarter |
+
+### *Summer Funding*
+
+Summer funding is confusing. In the Allen School, there are a range of options—which provides flexibility but also increases complexity, including 2.5-month appointments, 3-month appointments. 50% vs. 100% time, grad hourly, and TAships. The Allen School has no official policy but suggests that PIs take into account overall funding availability, student travel/vacation plans, and also strive for consistency across lab members. Because summers are comparatively expensive, I cannot guarantee summer funding; however, when available, we aim to provide a 2.5 month, 50% or 100% appointment.
+
+Below, we provide an estimate of funding rates for Summer’24. Note: these change each year.
+
+| Funding Option | Pre-Generals $ Estimate | Post-Generals $ Estimate | Misc Notes |
+| :---- | :---- | :---- | :---- |
+| 50% RAship2.5 months | Pre-generals (5 credits):$21,617 | Post-generals (2 cr):$19,381 | Summer pay gap, workday termination |
+| 50% RAship3 mos | Pre-generals (5 cr):$38,455 | Post-generals (2 cr):$36,852 |  |
+| 100% RAship2.5 mos | Pre-generals (5 cr): $38,455 | Post-generals (2 cr): $36,852 | Summer pay gap, workday termination |
+| 100% RAship3 mos | Pre-generals (5 cr):$45,260 | Post-generals (2 cr):$43,913 |  |
+| Grad Hourly | Hourly rates determined by union contract and set to increase; \~$50/hr (not including overhead or fringe benefits) |  | Students must enter hours in Workday. No UPASS or health benefits provided |
+| TA, 2 mos | TAships are paid by the Allen School; however, there are very few TA slots during the summer. Includes 20% supplemental salary due to shortened academic quarter |  | TA application opens in early May. Students must apply via the [Allen School TA Application](https://ta.cs.washington.edu/apply/).  |
+
+Table. An estimate of costs for Summer’24. All costs include overhead. The deadline to communicate offers to payroll is April 23; offers sent out to students by \~May 15th. There are lots of caveats and small details to the above. Please chat with me and the grad advising office.
+
+## **Fellowships** {#fellowships}
+
+Because funding is competitive and difficult to obtain and because writing fellowship applications has important generative effects for your research—they are wonderful forcing functions to think deeply about your work, to plan out future research, and to express your accomplishments and plans to an external audience—I expect each PhD student to actively search for and apply for fellowships. The [Allen School Funding & Fellowships page](https://www.cs.washington.edu/academics/phd/handbook/funding#fellowships) lists common federal and corporate fellowships but there are many others. Let’s get creative about your funding\!
+
+Though competitive, Makeability Lab PhD students have a strong track record of applying for and receiving fellowships, including the [IBM PhD Fellowship](https://www.research.ibm.com/university/awards/fellowships.html), two [Google PhD Fellowships](https://research.google/outreach/phd-fellowship/), a [Microsoft Dissertation Grant](https://www.microsoft.com/en-us/research/academic-program/dissertation-grant/), and a [Google-CMD-IT LEAP Alliance Fellowship](https://cmd-it.org/news-recent/6-flip-phd-students-win-google-cmd-it-dissertation-fellowship-award/). During my own PhD, I was also fortunate to receive a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/).
+
+I am happy to work with you on your fellowship applications, including your research statement/proposal, and by writing a letter of recommendation. As you work on your application, I suggest asking for and studying past statements from others and allocating sufficient time for writing and iterating—see below for example statements. Depending on the application, you will likely need to write a 3-5 page research statement and to supply up to three letters of recommendation. This takes time.
+
+But remember, writing these applications is *generative*. It will help you think about and plan your research.
+
+### *Industry Fellowship Statements* {#industry-fellowship-statements}
+
+I have received the gracious permission to share the following PhD Fellowship Applications with fellow Makeability Labbers. Please keep them in confidence. In addition, I encourage you to reach out to the Grad Advising staff ([cs-grads@cs.washington.edu](mailto:cs-grads@cs.washington.edu)) who maintain an internal archive of successful PhD fellowship applications to share.  
+
+* **Dhruv Jain,** [Sound Sensing and Feedback Techniques for d/Deaf and Hard of Hearing Users](https://drive.google.com/file/d/1Q9byEGGud6WHA88N1H5Om8qCRW9OWjDB/view?usp=sharing), MSR Dissertation PhD Fellowship, 2020  
+* **Manaswi Saha**, [Designing Interactive Computational Tools for Understanding Urban Accessibility at Scale](https://drive.google.com/file/d/1zUU9qd1ZSs-syMg3CSkJtWTG8aHgLnoc/view?usp=sharing), Google PhD Fellowship, 2019  
+* **Kotaro Hara**, [Scalable Methods to Collect and Visualize Sidewalk Accessibility Data for People with Mobility Impairments](https://drive.google.com/file/d/1inO5jStaSB4wH-yTTtVwqUB2Pq3eNhTb/view?usp=sharing), Google PhD Fellowship, 2014
+
+In addition to the above successful applications, here are some unsuccessful attempts. Remember that the statement is only one part of a holistic review process, which also includes your overall track record of work and accomplishments, your letters of recommendation, and your fit with the fellowship opportunity. Thus, a fellowship rejection should not be narrowly seen as an outright rejection of the statement.
+
+* **Kotaro Hara**, [Scalable Methods to Collect and Visualize Sidewalk Accessibility Data for People with Mobility Impairments](https://drive.google.com/file/d/1zbgvbgkJqbLPA6pXcgIVBefD0zjkiypB/view?usp=sharing), Google PhD Fellowship, 2013
+
+### *Resources* {#resources}
+
+* [Advice and sample essays for graduate fellowships](http://obsessionwithregression.blogspot.com/2015/07/advice-and-sample-essays-for-rhodes.html), 2015, Professor Emma Pierson
+
+### *The NSF GRFP* {#the-nsf-grfp}
+
+The NSF GRFP (Graduate Research Fellowship Program) is NSF’s own funding program for STEM PhDs. According to the NSF, the purpose of the GRFP is to “*ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. GRFP seeks to broaden participation in science and engineering of underrepresented groups, including women, minorities, persons with disabilities, and veterans*.” 
+
+Unfortunately, many Makeability Lab’ers do not qualify for the GRFP as it is limited to US citizens, US nationals, and permanent residents (I know, this is hard 😢). Additionally, you must have completed **no more** than one academic year of full-time graduate study. You can apply only once.
+
+Again, we received permission to share the following successful NSF GRFP applications. Please do not share them outside of our group. I suggest seeking additional examples both within UW and beyond.
+
+* **Emma McDonnell**, HCDE, wrote GRFP proposal in her 2nd year as a PhD student (2020)  
+  * [Redistributing Access Work: Real-Time Captioning as a Shared Responsibility](https://drive.google.com/file/d/12ZhqrgygGyU86cT1F3WY7bSbr8Te1Xtd/view?usp=sharing)  
+  * [Personal Statement](https://drive.google.com/drive/folders/1YmA-4gFg4PN8pHMFyG6zPVWycIlpk9S1)  
+* **Steven Goodman,** HCDE, wrote GRFP proposal in 2nd year as a PhD student (2019)  
+  * [Design and Deployment of Smartwatch-based Sound Awareness Tools for Deaf and Hard of Hearing Users](https://drive.google.com/file/d/1AcPcmlracx9j1Z9Gi4ELS8HQF-UuAS2y/view?usp=sharing)  
+  * [Personal Statement](https://drive.google.com/drive/folders/1YmA-4gFg4PN8pHMFyG6zPVWycIlpk9S1)  
+* **Kelly Mack,** CSE, wrote GRFP proposal as a final year ugrad at UIUC (2019)  
+  * [Applications of Haptics in the Accessibility Space](https://drive.google.com/file/d/1KpGu5Owv2XnKo3KyusHakY1kPWrni9t8/view?usp=sharing)  
+  * [Personal Statement](https://drive.google.com/file/d/1P4VfrS1oUWKHvcfY8F4bh6Oqj0EcvRIj/view?usp=sharing)
+
+In addition, we have received permission to share some unsuccessful NSF GRFPs. As with paper rejections, take care to note that there is “noise” in the review system. Do not conflate rejection with merit. But we can, of course, learn from studying both the successful and unsuccessful NSF GRFPs and draw our own conclusions about the strengths of each.
+
+* **Daniel Campos Zamora,** CSE, wrote GRFP at onset of 2nd year as a PhD student (2022)  
+  * [Ability-Based Design for Adaptive and Accessible Physical Environments](https://drive.google.com/file/d/1ohue0fx7HreWp16mCYvOebrKPcrv4smz/view?usp=share_link)  
+  * [Personal Statement](https://drive.google.com/file/d/1ohue0fx7HreWp16mCYvOebrKPcrv4smz/view?usp=share_link)  
+  * [NSF Reviews](https://drive.google.com/file/d/1_4zqszkyBzsF43SWQKeiwqZXG4D9S7vt/view?usp=share_link)
+
+## **RAships** {#raships}
+
+RAships are funded research positions and are often tied to specific projects. If your research is beyond the scope of my current funded grant proposals, I will likely not be able to fund you (at least not consistently). By your third year, you should have a sufficient research track record for me to write a new grant, if possible, on our work together. As noted elsewhere, you should be constantly aware of and applying for fellowships. Take charge\!
+
+Some of my PhD students have had RAship funding throughout graduate school; others have had to switch between RAship and TAship. If you are making consistent research progress, I will do my best to at least provide summer RAship funding even if you are not doing work directly related to a funded grant (I’ve been able to do this without exception since becoming a professor).
+
+At the beginning of each year, we should openly talk about funding options for you and potential plans for RA *vs.* TAships. We should revisit these discussions roughly at the midpoint of each term, which is often when see TAships advertise on the DUB mailing lists and Slack channels 
+
+## **TAships** {#taships}
+
+Allen School PhD students are required to TA at least two courses during their PhD ([link](https://www.cs.washington.edu/students/newgrad/ta)). TAing can deepen your understanding of a topic, help you develop new relationships with professors and peers, strengthen and nurture your teaching skills, and even provide you access to talented undergraduates who you may recruit on to a research project. 
+
+Unless you enter the PhD program with a [fellowship](https://www.cs.washington.edu/academics/phd/handbook/funding#fellowships) (*e.g.,* an [NSF GRFP](https://www.nsfgrfp.org/)), Makeability Lab PhD students typically begin as TAs. For new PhD students, TAships provide a nice, transitional on-ramp to Allen School curriculum, allow you to meet and work with other professors and graduate students, and relieve some pressure for making immediate research contributions. If you TA in Year 1, you should still be involved in research via independent study credits and work with a Makeability Lab team towards a co-authored contribution.
+
+As you progress through the PhD, depending on your research project and funding availability, you may need to TA intermittently (*e.g.,* 1-2 times a year). I have consistently funded all Makeability Lab PhD students in RAships during their summer quarters, which is a fruitful time for research. 
+
+To enable you to help with preparation work, TAships officially start \~2 weeks before the onset of the academic quarter (*e.g.,* for a Fall’21 class start date of Sept 29, the TAships started Sept 16).
+
+### *Selecting a TAship* {#selecting-a-taship}
+
+To prepare for TAing, please work with me to carefully select potential courses based on your background, your interest in the subject matter, and the lead instructor (who you will work with closely). Each quarter, you will have an opportunity to fill out a preference form and rate courses on a five-point scale. [Pim Lustig](https://homes.cs.washington.edu/~pl/) is Allen School Course Coordinator and leads TA staffing. You will likely communicate with him about your preferences and possibilities. In some cases, you may be able to TA outside of the Allen School (*e.g.,* in the [MHCI+D program](https://mhcid.washington.edu/) or the iSchool).
+
+### *TA for me\!* {#ta-for-me!}
+
+I enjoy working with my own PhD students as TAs, which provides an additional, complementary collaboration channel. You may even learn something, and I always learn from my TAs too\! I try my best to protect and respect your hours so that you can still be research productive. The classes that I teach with TAs include the following (basic topics and/or prerequisite skills follow course name):
+
+* [**CSE 490 Physical Computing**](https://makeabilitylab.github.io/physcomp/)**.** Arduino, C/C++ programming, electronics, 3D modeling and fabrication (3d printers, laser cutters)  
+* [**MHCI+D 521 Prototyping Studio**](https://mhcid.washington.edu/curriculum/)**.** Design processes, lo-fi and hi-fi prototyping, electronics, MakeCode, Circuit Express Playground, craft, 3D modeling and fabrication (3D printers, laser cutters)  
+* [**CSE 412 Introduction to Data Visualization**](http://courses.cs.washington.edu/courses/cse412/)**.** JavaScript, d3, vega, foundations of visualization, perceptual psychology, graphic design.  
+* [**CSE590 Ubiquitous Computing (Professional Masters Program)**](https://makeabilitylab.github.io/physcomp/). Arduino, C/C++ programming, electronics, 3D modeling and fabrication (3d printers, laser cutters), Python, Jupyter Notebook, applied machine learning
+
+### *Other popular courses to TA for HCI PhD students* {#other-popular-courses-to-ta-for-hci-phd-students}
+
+Below, I’ve listed other common Allen School courses for HCI PhD students to TA. There may also be opportunities to TA in the [iSchool](https://ischool.uw.edu/), [HCDE](https://www.hcde.washington.edu/), and [MHCID](https://mhcid.washington.edu/) programs.
+
+**Undergraduate:**
+
+* [CSE154 Web Programming](https://courses.cs.washington.edu/courses/cse154/)  
+* [CSE340 Interaction Programming](https://courses.cs.washington.edu/courses/cse340/#:~:text=Covers%20key%20topics%20and%20programming,\(e.g.%2C%20mobile%20applications\).)  
+* [CSE412 Introduction to Data Visualization (Non-Majors)](http://courses.cs.washington.edu/courses/cse412/)  
+* [CSE440 Introduction to HCI](https://courses.cs.washington.edu/courses/cse440/).  
+* [CSE441 Advanced HCI](https://courses.cs.washington.edu/courses/cse441/)  
+* [CSE442 Data Visualization](https://courses.cs.washington.edu/courses/cse442/)  
+* [CSE481 HCI Capstone](https://courses.cs.washington.edu/courses/cse481h/)  
+* There are also new ugrad classes being designed for social computing, research methods
+
+**Graduate:**
+
+* [CSE510 HCI Quals Course](https://courses.cs.washington.edu/courses/cse510/)  
+* [CSE512 Visualization Quals Course](https://courses.cs.washington.edu/courses/cse512/)  
+* CSE599 Computer Ethics   
+* [CSE590 Ubiquitous Computing](https://makeabilitylab.github.io/physcomp/) (Professional Masters Program)  
+* [CSE590 The Future of Access Technolog](https://courses.cs.washington.edu/courses/csep590a/21sp/)y (Professional Masters Program)
+
+## **Funding personnel**  {#funding-personnel}
+
+The Makeability Lab Grants Manager is **Elaine Shelley**—she helps me create budgets, put together grant paperwork, make cost projections, and generally assists with Makeability Lab finances. While Elaine is critical to our lab, you may not interact with her much as a PhD student. You can email her at [eshelley@cs.washington.edu](mailto:eshelley@cs.washington.edu)
+
+In contrast, you will interact more with **Amy Ness**, who is our lab’s “fiscal specialist” and handles equipment ordering and reimbursements (for purchases, conference registration, *etc.*). You can email Amy at [amyn97@cs.washington.edu](mailto:amyn97@cs.washington.edu). Both Elaine and Amy work with multiple labs (see [org chart](https://s3-us-west-2.amazonaws.com/www-cse-public/orgchart/cseorgFacCluster.pdf)). We are grateful to have them as colleagues.
+
+You may also work with Jin Xu ([jxu2@cs.washington.edu](mailto:jxu2@cs.washington.edu)) who handles fellowships (like the Google PhD Fellowship), Eric Eto who is the Allen School Payroll Manager and sends you contracts to sign for RAships and TAships, and [Pim Lustig](https://homes.cs.washington.edu/~pl/) on your TAship assignments.
+
+## **Reimbursements** {#reimbursements}
+
+Whenever possible, we try to minimize a PhD student’s out-of-pocket expenses. For example, for equipment purchases, we can use my grant funding to directly purchase equipment (via Amy and Elaine above). Similarly, to reduce your conference cost burden, you can have Amy/Elaine help register you for a conference and book your flight.
+
+Of course, reimbursements are inevitable—*e.g.,* for a rapid equipment purchase (assuming approved by me) or perhaps, out of convenience, you booked all of your own travel \+ hotel and now need to file a reimbursement. 
+
+Before traveling, please prepare a cost estimate for your trip. For travel reimbursements, we must follow the [UW Travel Services policies](https://finance.uw.edu/travel/policyindex). When seeking reimbursement, please create an itemized spreadsheet of costs following [this template](https://docs.google.com/spreadsheets/d/1VRJe388TP6NF_DUP6szWLn3v1isfcekE/edit?usp=drive_link&ouid=111759084570559606451&rtpof=true&sd=true). Once you share the total cost \+ itemized spreadsheet and receive approval from me, you can email Elaine and Amy. Note: you will need to tell them which funding source to use (which you will hopefully have worked out beforehand with me). See also the [Attending Workshops and Conferences](#attending-workshops-and-conferences) section.
+
+*Update 4/24/2025: The Allen School has launched [its own internal reimbursement tool](https://internal.cs.washington.edu/research-admin/research-finance-team/) that we now need to use.*

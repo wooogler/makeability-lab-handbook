@@ -1,0 +1,33 @@
+# **Work-life balance** {#work-life-balance}
+
+One of the hardest parts of academia is its nebulous work structure—you can always do more. And academics who “do more” are often rewarded commensurately, which creates a dangerous self-perpetuating cycle. Yet, research findings show that work-life balance is critical to performance, job satisfaction, and creativity \[TODO cite, cite\].
+
+Nearly everyone in academia struggles with determining *how much* to work and *when*. Ultimately, your work hours are a personal choice. I care less about how much you work and more about what you do when you work and whether you are meeting our mutually established goals.
+
+Even when you’re trying to relax, you may feel the need to work and “do more.” This can be caustic, debilitating, and unhealthy. Setting clear boundaries about when you work and how much you expect of yourself is critical to a healthy work-life balance.
+
+As [Schoenebeck expresses](https://yardi.people.si.umich.edu/advising.html): “*Academic life is unlike many industry jobs in that there is no 9-5 structure in place. As a result, students can feel like they should be working all the time. They should not. The vast majority of people cannot sustain overwork without compromising their physical or mental health. I also think that for the majority of people, working reasonable hours and taking breaks results in more innovative and impactful scholarship.*”
+
+People work different amounts, which may reflect a difference in career aspirations, sources of fulfillment, external demands on time, personality, and more. And similar to other deadline-driven professions—like law or journalism—your work rhythm and hours may shift in concordance with deadlines and set goals. You need to find the work-life balance that works for you. But you also need to make consistent progress on your PhD, which is why you’re here.
+
+## **My Work-life Balance Strategies** {#my-work-life-balance-strategies}
+
+### *Apple screen time* {#apple-screen-time}
+
+To help balance my own life and to allow me to focus on my family and personal activities, I use [Apple’s Screen Time](https://support.apple.com/en-us/HT208982) in the evenings and weekends, which automatically locks work applications like email, web browsing, and Slack. I do not have the password to unlock these apps. So, if you contact me in the evening, do not expect a response until the next day.
+
+### *Consistent work hours* {#consistent-work-hours}
+
+You can generally expect my availability 9AM-4PM M-F. I also tend to work 5AM-7:30AM on weekdays and weekends, which is my primary “focus time” and when my brain works best. I tend to reserve this time for writing, teaching prep, or other high-cognitive tasks.
+
+### *Limited push notifications* {#limited-push-notifications}
+
+Additionally, I do not have push notifications enabled on my phone and only check email intermittently throughout the day. As you might imagine, then, I generally prefer email rather than Slack or instant messaging as the latter are disruptive (with chats demanding instant attention). However, this preference is context-dependent (*e.g.,* if we are both working together on something and mutually aware of our availability, then Slack can be great\!).
+
+### *Unsubscribe to mailing lists* {#unsubscribe-to-mailing-lists}
+
+Email demands your attention and time. Most mailing lists are distractions; attention stealers. I aggressively unsubscribe to all but the most essential. 
+
+### *Vacation* {#vacation}
+
+Vacations have become critical to separating from work. When I vacation, even if just for a long weekend camping, I generally refrain from checking email, Twitter, or anything that may trigger my brain into “work mode.” Interestingly, the [official UW policy](https://ap.washington.edu/ahr/working/leaves/faculty-leaves/annual-leave-vacation/)—common in academia—is that faculty are not eligible to receive or accrue vacation time(Vacation time for faculty is *strange*, which again reflects institutional structures that can contribute to an incessant “*I always need to be working*” feeling. I’m happy to talk about this in more detail, if you’re interested. In short, I am on a 9-month contract (3 academic quarters) and am responsible for fundraising to support my summer-month salary. According to [UW policy](https://ap.washington.edu/ahr/working/leaves/faculty-leaves/annual-leave-vacation/), faculty on 9-month appointments are expected to “*use summer for time off*.” Of course, the summer is when our lab is often most research productive and when I try to write grants...).

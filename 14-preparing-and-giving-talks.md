@@ -1,0 +1,31 @@
+# **Preparing and giving talks** {#preparing-and-giving-talks}
+
+*“Tell someone a fact and you reach their minds; give them a story and you touch their souls.”*  
+*\- A Hasidic Proverb(As quoted in [Berkowitz and Jonas, 2014](https://www.amazon.com/Hearing-Siblings-Conversation-Marla-Berkowitz/dp/078647825X))*
+
+When you give a talk, you not only have an opportunity to demonstrate the strength and impact of your research but also your ability to organize and clearly articulate thoughts, to control and confidently adapt to an audience, and to tell a meaningful story. Like writing, giving a good talk takes serious preparation and rehearsal. But it’s worth it. In academia, there is a popular adage “*every talk is a job talk*.” I have found this to be true.
+
+In my group, I have long-emphasized that you can give an amazing, thought-provoking talk *without* slides but not the other way around—think Martin Luther King Jr.’s *I Have a Dream* speech, Amanda Gorman’s inauguration poem, or Abraham Lincoln’s *Gettysburg Address*. None had slides\! The slides do not make your talk, you do. 
+
+Still, in HCI/d fields, well-designed slides are important, necessary, and reflect your aptitude and understanding of graphic design and visual communication. Slides are also necessary to properly capture our interaction design research\! High-quality imagery and videos help highlight your incredible user interfaces and built artifacts. 
+
+One type of long-form, summative presentation is your “job talk”, which we cover in the [Academic Job Talk section](#academic-job-talks).
+
+## **Conference Talk Tips/Tricks**
+
+Talks are unique mediums that are completely separate/independent from communicating science via a written publication. Do not treat them the same way\! Do not formulate your oral communication with the same phrasing as your written communication (they are different\!)
+
+* You have to **EARN** your audience attention and then **WORK** to keep it throughout the talk  
+* Start with an undeniable hook that **DRAWS** your viewer in  
+* Leverage the unique multimodality of a talk: use your **VOICE**, use **VISUALS**, use **VIDEOS**, and use textual **ANNOTATIONS**  
+* If you say more than a single sentence without a backing written point or visual augmentation, you will begin to **LOSE** your audience. Thus, substantiate and complement your voice with the unique offerings of a modern presentation: images, videos, text  
+* On-screen text is critical but never write full sentences; use punchy text points  
+* **Never use figures/images directly copy/pasted from your paper figures**. Talks are a completely separate beast that requires a different type of visual communication. For example, observe how I introduce this rather complex graph slowly, introducing key elements first (and the skeleton for the graph) before animating in results and stepping my audience through key takeaways. Also note my :haircut: . :rolling\_on\_the\_floor\_laughing:   
+* Your audience will hardly remember **ANYTHING** (want proof: think back to all of the conferences you have attended, what do you remember?). Thus, you need to really hammer in your key points and contributions. You can bring them up in the beginning of the talk and at the end. And again, be CREATIVE in how you get and sustain your audience attention  
+* Develop a **commanding stage presence**: do not read your slides, make eye contact, use gesticulation, modify the rhythm and cadence of your voice, draw your audience in with questions. Analyze your talk in terms of key beats---where will things be a bit more tedious for your audience? How can you followup that portion of the talk with something that again gets their attention?
+
+## **Resources** {#resources-1}
+
+* TODO: resources for preparing good talks  
+* TODO: let’s list some of the best academic talks we’ve seen.   
+* TODO: Here’s an old Dropbox folder of resources that I made. I need to go through this

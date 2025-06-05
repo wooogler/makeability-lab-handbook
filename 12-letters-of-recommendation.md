@@ -1,0 +1,56 @@
+# **Letters of Recommendation** {#letters-of-recommendation}
+
+When I request a letter myself, I try to do three things:
+
+* Make it easy for the person to say no. Offer them convenient outs. "*I understand how busy you are, so if you don't have time, no problem. Please let me know so I can find alternatives.*"  
+* I specifically ask if they feel they can support me with a **strong** letter. Weak letters can be more harmful than no letters.  
+* I send a brief bulleted list of my accomplishments and, in some cases, include a longer list of accomplishments as an attachment (aka a “brag sheet”—don’t be shy in touting your accomplishments\!). This summary can help inform the recipient about whether to invest time in writing me a letter of support.
+
+Remember, you are asking for someone's time; you need to make it as easy as possible for them to write you the strongest possible letter. These letter requests may vary based on your seniority and what you’re asking for (*e.g.,* PhD Fellowship, faculty letter, *etc.*) but the guidance above should still apply. Here’s an [example email](https://docs.google.com/document/d/1bwNICwT15o3lsOdY9FTquJe8rGXmw7w1lLwIifpZr3Q/edit) that I wrote back in 2016 when asking people to support me for the Sloan Fellowship.
+
+## **Requesting a letter of recommendation from me** {#requesting-a-letter-of-recommendation-from-me}
+
+Writing letters of recommendation is one of the most important aspects of my job as a professor. I gain deep satisfaction from helping students seek and attain new opportunities in their careers. With that said, writing a quality, thoughtful recommendation letter takes time. When you ask for a recommendation, it's important that you consider the required effort(It takes me between 3-5 hours to write an initial letter for my PhD students (sometimes longer if it is for a particularly unique opportunity that requires additional background research for me). Often, my calendar is fully booked from week-to-week, so finding this time requires careful scheduling.): make it as easy for me to write a *strong* letter. 
+
+There is also value in reflecting on *how* you would write the letter if you were me —what have you done where you have distinguished yourself? What is worth highlighting and why? Why do you feel you deserve a scholarship, fellowship, or job opportunity? If you have trouble answering these questions, I likely will too (it doesn’t mean there aren’t answers; I’m willing to help brainstorm with you to think through possibilities).
+
+As one concrete example, how would you fill out the following form for Stanford’s graduate program for yourself? For me to fill this out confidently and accurately, I need to have had (1) significant interactions with you; (2) for your work to have been impressive. This is not to intimidate you but to highlight that, as a letter writer, this is what is asked of me. I want to be able to select "Top 1-2%" and "Strongly Recommend" but obviously I can only do so if you've demonstrated those things.
+
+![A screenshot of Stanford's letter of recommendation form, which has the following questions:1. Please identify the most selective group to which you are comparing the applicant2. How many years have you evaluated people in this group3. Approximaitely how many people are in this group, totaled over those years?4. In overall ability, this candidates is among the (with closed-form options like Top 1-2%)5. Admission to graduate study at Stanford is (again closed-form with "Strong recmomended, recommended, recommended with reservations, etc"][image23]  
+**Figure.** An excerpt of Stanford’s graduate school LoR form, which is typical of top grad programs.
+
+![A screenshot of UC San Diego's graduate application form that asks recommeners to rate an applicant's academic and intellectual ability and their potential for success in a rigorous graduate program from Extraordinary (Top 1%) to Below Average (Below 40%)][image24]  
+**Figure.** An excerpt from UC San Diego’s graduate school letter of recommendation form.
+
+To help us both when requesting a letter please:
+
+1. Provide a **thought-out rationale** for why you’re *asking me* and what you think I can speak about that may differentiate my letter from others.  
+2. Ask for a letter **in advance**—ideally \~3-4 weeks in advance. Please check with me the week of the deadline to ensure everything is going smoothly  
+3. If I agree to write you a letter, please send me:  
+   1. A **summary of your work** in my research group and/or class(es). Include examples where you demonstrated creativity, determination, leadership, and/or excellent performance. You need not write in lengthy prose; bullet-pointing is fine.  
+   2. Include an **abbreviated list of your major (recent) accomplishments** in life with descriptions, including academically, in research, in service (e.g., president of ACM-W on-campus group, started CS high school tutoring program), and in life (e.g., won university ballroom dance competition, marathon race finisher).  
+   3. If you are applying to a specific scholarship, fellowship, or job, what makes you a unique, compelling candidate for this opportunity? Be specific.  
+   4. Attach your **transcript,** your **CV/resume**, and if applicable, a draft of your **personal statement.** I’m also happy to provide feedback on these materials. Please ask\!  
+4. If you’re applying to multiple places, please use an online system like Interfolio or alternatively a Google Sheet formatted columns for positions/schools, deadlines, submission instructions, and relevant web links. I will update each row when I’ve submitted a letter (so please give me edit access).  
+5. If you’re an undergraduate student that has worked closely with a PhD mentor, please have them draft a short \~2-3 paragraph summary of your work with them, key contributions, and their observations. I often quote these PhD summaries directly in my letters. While you can work with your PhD mentor on this summary, the final version should be confidential and sent directly from your PhD mentor to me.
+
+Importantly, to ensure that my words convey an honest assessment, I do not release letters to students. If I’ve supported you with a letter, I’d love for you to stay in touch. I greatly enjoy hearing from students and continuing to support them in their careers.
+
+![][image25]**Figure.** To protect the integrity of the letter writing process, you must waive your right to access my recommendation in the online forms or I will not be able to upload my letter.
+
+## **PhD students mentoring ugrads and LoRs** {#phd-students-mentoring-ugrads-and-lors}
+
+If you are a PhD student (or research scientist) mentoring a Makeability Lab undergrad in research and said ugrad has ambitions for graduate school (MS or PhD), they will likely need a letter from us. You should have a conversation early on with your ugrad about what this means and the importance of letters. If, after working with us for \~3 months (minimum), the student does indeed want a letter from us, have them read the above “[Requesting a letter of recommendation](#requesting-a-letter-of-recommendation-from-me)” subsection and then setup a private Google Doc (shared only with me) with the following subsections: 
+
+* Summary paragraph (or two) on key ugrad contributions to the research  
+* And at least one sentence about the following:  
+  * Time management  
+  * Independence and initiative taking  
+  * How well the student responds to and takes feedback  
+  * How well the student works on a team  
+  * How the student overcomes challenges (technical or otherwise)  
+  * Strongest observed skills/assets  
+  * Overall creativity and ability to contribute new ideas  
+* If you are applying to PhD positions, they should also:  
+  * Comment on your research skills (writing, analysis, communication)  
+  * Comment on your potential as a PhD student

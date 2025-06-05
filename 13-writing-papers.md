@@ -1,0 +1,158 @@
+# **Writing papers** {#writing-papers}
+
+Oral and written communication is critical to research and scholarship. You can create the most innovative systems, perform groundbreaking studies, or uncover field-advancing findings—but none of this matters if you cannot *communicate* it to the research community. The former is knowledge creation, the latter is knowledge dissemination.
+
+Further, I would argue that for technical HCI research particularly—where we build and study novel interactive systems—writing and scholarship is one of the primary differentiators between raw engineering/innovation, which you might do at a startup or tech company, and academic research. If you simply want to focus on building and engineering but not on science and scholarship then one must carefully reflect on whether a PhD is an appropriate investment and career path.
+
+**The problem:** writing is hard. It requires practice, iteration, and time. And academic writing is different, unlike any prior writing you have likely experienced. Even those first-year PhD students who are gifted writers or who have explicitly focused on developing their writing ability struggle with the transition to academic writing. I’ve written over 120+ scientific publications but I still consistently work on, study, and try to improve my academic writing.
+
+**The opportunity:** writing can be a *huge* differentiator in your career. It can improve your efficiency by reducing rejection rates and amplify your impact by making the results of your research interesting and understandable(In [Professor Jim Kurose](https://scholar.google.com/citations?user=219_uIcAAAAJ&hl=en&oi=sra)’s advice to graduate students he “*cannot overstress the importance of good writing*” and that it is “*an outstanding investment of your time*.” He also provides 10 tips for writing a research paper ([Slide 12 and 13](https://www.albany.edu/spatial/WebsiteFiles/ResearchAdvices/advice-to-students.pdf)).). You need to study great academic writing (and writers) and actively work on improving your skills. It will take time to hone your academic voice. Like any craft, it takes serious investment and practice. But it is worth it.
+
+Writing also has important intellectual benefits: it forces you to think deeply about your work, carefully articulate and contextualize differences with prior research, find gaps in your thinking or study design, and even has generative effects—you will think of new research ideas as you write (yay\!).
+
+![This sketch shows a metaphorical illustration of the generative effects of writing: writing forces your brain into thinking deeply about a subject and unlocks new thoughts and possibilities.][image26]  
+Figure. A metaphorical illustration of the generative effects of writing: writing forces your brain into thinking deeply  
+ about a subject and unlocks new thoughts and possibilities. Source: [David Perell](https://twitter.com/david_perell/status/1413357426238177286?s=20). 
+
+## **Where do we publish?** {#where-do-we-publish?}
+
+We aim to submit our work to the highest quality, most prestigious venues (termed “tier 1” venues) that are also the best fit for a specific project. Tier 1 venues enable us to engage with and receive feedback from expert scholars and, if our work is accepted, provides visibility, credibility, and the opportunity for the most impact(Admittedly, the choice of publication venue is, perhaps, not as important as it once was with the shift to open publishing, Google Scholar, and pre-print archives like [arXiv](https://arxiv.org/). Perhaps due to Internet search, I have had workshop papers outperform CHI papers in terms of reach and citation.). For the “highest impact” HCI venues according to citations (h5-index)—which is but one coarse and imperfect measure—see this [Google Scholar ranking](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_humancomputerinteraction).
+
+Typically, we publish at the following HCI-related venues. All conferences are sponsored by [ACM SIGCHI](https://sigchi.org/conferences/)([SIGCHI](https://sigchi.org/conferences/) is the “*the premier international society for professionals, academics and students who are interested in human-technology and human-computer interaction (HCI)*”) unless otherwise noted.
+
+* [**CHI** (ACM Conference on Human Factors in Computing Systems](https://dl.acm.org/conference/chi)): the flagship and largest publication venue in HCI. Deadline is typically Sept. The journal alternative is the [ACM Transactions on Computer-Human Interaction (TOCHI)](https://dl.acm.org/journal/tochi).  
+* [**ASSETS** (ACM SIGACCESS Conference on Computers and Accessibility)**:**](https://dl.acm.org/conference/assets) the premiere accessibility conference, second only to CHI in publishing accessibility work. Sponsored by [SIGACCESS](https://www.sigaccess.org/). Deadline is typically April. The journal version of ASSETS is TACCESS.  
+* [**CSCW** (Conference on Computer Supported Cooperative Work)](https://dl.acm.org/conference/cscw): the top venue for social computing work. Two submission deadlines a year: July and January with revisions due in October and April, respectively. Accepted work can be presented at the CSCW conference in November.  
+* [**IMWUT** (Journal on Interactive, Mobile, Wearable, and Ubiquitous Technologies](https://dl.acm.org/journal/imwut)): top venue for ubicomp-related work. Four submission deadlines a year: Aug, Nov, February, and May with opportunity to revise and resubmit. 
+
+Depending on the project, we may also publish at:
+
+* [**UIST** (ACM Symposium on User Interface Software and Technology)](https://dl.acm.org/conference/uist)**.** Similar to CHI but more narrowly engineering/technical system focused. Deadline is typically April. Sponsored by SIGCHI and SIGGRAPH.   
+* [**DIS** (ACM Conference on Designing Interactive Systems).](https://dl.acm.org/conference/dis) Similar to CHI but with a greater art+craft+design focus. Deadline is typically February.  
+* [**IDC** (ACM Conference on Interaction Design and Children)](https://dl.acm.org/conference/idc). Similar to CHI but focused on HCI+children. Deadline is typically January.    
+* [**TEI** (ACM Conference on Tangible, Embedded, and Embodied Interaction)](https://dl.acm.org/conference/tei). Similar to CHI but with a strong focus on how computing can “*bridge atoms and bits into cohesive interactive systems*”  
+* [**IUI** (ACM Conference on Intelligent User Interfaces).](https://dl.acm.org/conference/iui) Similar to CHI but more narrowly focused on the intersection of AI \+ HCI. Sponsored by SIGAI and SIGCHI.
+
+We encourage you to think of the best venue for your work. As an interdisciplinary lab, we are happy to consider publishing at any high-quality, reputed venue. Additionally, our collaborators may lead us to new venues and opportunities (exciting\!). Let’s discuss\!
+
+## **How to write HCI research papers** {#how-to-write-hci-research-papers}
+
+There are three common writing applications for HCI publications: Google Docs, Microsoft Word, and Overleaf (LaTeX)—each have their merits. I strongly prefer writing in Word *vs.* LaTeX—Word better matches how I think, has greater collaborative tools, and superior track-changes features. But alas, the world seems to have shifted to Overleaf, so this has become our primary scientific writing tool. Google Docs also plays a role in offering a lightweight space to collaboratively brainstorm ideas, outline sections, and potentially even drafting early sections; however, it is not an appropriate tool for actually writing submittable papers.
+
+Here is a [document capturing LaTeX and TAPs tips](https://docs.google.com/document/d/1LUlawKQFtqAYLF1lDoVICCQVuFcsqo3qSctcsStQilI/edit?tab=t.0) started by PhD student, Chu Li.   
+
+To use Overleaf for an ACM submission, begin with the [ACM Overleaf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc). See ACM’s [Overleaf page](https://authors.acm.org/proceedings/production-information/overleaf) and [Word webpage](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word). Please make sure you use your cs.uw.edu account as the Allen School pays for a premium Overleaf subscription (and this gives us features like track changes, etc.)
+
+### *Jon’s quick writing tips* {#jon’s-quick-writing-tips}
+
+* Tell a story. Humans are storytellers and story receivers.  
+* Interaction design is a largely visual discipline. So too then are HCI papers. We need to craft and tell visual stories. Here's [a set of exemplary figures](https://docs.google.com/presentation/d/1ibu-lsRcEp-2fDpVvTfsdvzYo2ipjOOKkE46mk8_2NU/) curated by the Makeability Lab to help you study and create the best figures for your papers\!  
+* Scientific writing is rhetoric: your paper is an argument. What is new? What is different? Why do these differences matter? Notably, all of these statements can only be addressed comparatively by citing literature.  
+* Aim for concision: use the fewest words to communicate effectively. But this takes work & iteration. As a simple example, do not say “In order to…” when you can say “To…”—that’s 2/3rds cost savings for the same information. Aim for clarity, information density, and eloquent rhythm.  
+* Write rhythmically—draw your reader in with differently punctuated phrasings. But aim for concision.  
+* Do not use idioms (“*on the other hand*”) or cliches (“*machine learning is not rocket science*”)  
+* In prose, you should almost never have two sig figs after the decimal. Save such things for our tables (if even necessary there). Most of the time, two sig figs is overkill.
+
+### *Makeability Lab Writing Style Guide* {#makeability-lab-writing-style-guide}
+
+* My professional authorial name is Jon E. Froehlich. I should generally be last author on our papers together unless otherwise discussed.  
+* Related work is, in itself, plural. You should not say “Related Works.” Similarly, do not say “prior works” but rather “prior work.”  
+* Italicize all Latin abbreviations and words such as *e.g., i.e., etc.*, *et al., ad hoc, in situ*  
+* All section and subsection headers must be followed by a strong topic sentence. No empty section/subsection headers with no prose.  
+* Italicize the first mention of a system. “In this paper, we introduce *GazePointAR*” in the Intro and first content section of the paper. Also italicize first mention of other systems (*e.g., YOLOv8*, *Microsoft HoloLens 2*)
+
+### *Writing Introductions*
+
+The Introduction is the most important part of any paper. Fear not: it’s only 5-6 paragraphs\! 🥳 But those paragraphs must both excite your reader and provide a high-level view of your entire paper. Indeed, by the end of the Intro, your reader should *want* to read more but also have sufficient understanding about the key takeaways that if they stopped, they would “largely get it.” And remember, your text alone is insufficient (even for the most gifted writers amongst us); your prose should be complemented by an amazing Figure 1 (see our [“How to Figures” guide](https://docs.google.com/presentation/d/1ibu-lsRcEp-2fDpVvTfsdvzYo2ipjOOKkE46mk8_2NU/)). 
+
+So, what are these 5-6 paragraphs?
+
+* **Para 1: Motivation and problem statement.** Start with a compelling hook (a quote can work well, but don’t force it—here’s a lovely example from [Chheda-Kothary *et al.*](https://makeabilitylab.cs.washington.edu/media/publications/Chheda-Kothary_EngagingWithChildrenSArtworkInMixedVisualAbilityFamilies_ASSETS2024.pdf)) then clearly begin defining and scoping your problem space.  
+* **Para 2: Related work (RW) paragraph.** What have others done to address said problem? What are some key benefits as well as drawbacks/gaps with past solutions? Frame limitations to help bolster offerings from the approach you provide in Para 3\.  
+* **Para 3: Our solution para.** What are *we* doing to address said problem? What are key differentiating methods/benefits of our approach? As a writing crutch, think about starting this para with “In this paper, we introduce…” or “In this work, we examine…” (later, you might remove the “In this paper” part but good to keep for an initial draft.  
+* **Para 4: Evaluation/validation para.** How did you evaluate your solution? Explain the method, data collected, and analysis techniques. Use appropriate citations (e.g., generally we use well-vetted analysis techniques from the literature rather than pursuing something *ad hoc*, so cite that\!)  
+* **Para 5: Findings para.** What are the key findings and takeaways? How do these findings advance the literature and what is currently known? Note: to make claims about advancements, you will inherently need to cite prior work.   
+* **Para 6: Summary of contributions.**
+
+Now, of course, there are variations to any formula—so, appreciate this as a loose guide. For example, one common variation is to combine Para 1 and Para 2 so that your motivation para also introduces key RW and key limitations therein so that you can introduce your solution in Para2—this results in a five paragraph Intro rather than six. Similarly, you could imagine condensing Para 4 and 5 into one (the approach and the findings together).
+
+Moreover, this structure is more befitting of an HCI systems paper that introduces a specific solution to a problem. However, let’s imagine a different type of HCI paper—a formative inquiry or qualitative study paper. The formula (read: required paras) does change but not much:
+
+* **Para 1: Motivation and problem statement.** Stays the same  
+* **Para 2: RW para.** Stays the same  
+* **Para 3:** Largely the same but introduce the key topical focus of the study and key research questions. “In this paper, we examine \<some phenomenon\>. Our research questions are threefold: RQ1: \<write\>, RQ2: \<write\>, and RQ3: \<write\>”  
+* **Para 4:** largely the same but now pivot to writing about how to address those RQs. “To address the above RQs, we conducted a three-part, semi-structured interview with 12 participants. \<expand.\>”  
+* **Para 5: Findings para.** Stays the same  
+* **Para 6: Summary of contributions.** Stays the same.
+
+Regardless, if you nail the above six things, you will have a strong Introduction.
+
+Also remember: each paragraph is only 4-6 sentences. Write concisely. This takes discipline and iteration. Your first draft will not be a perfect distillation of your arguments and key points; so, don’t worry about length until later drafts. For the initial drafts, focus on capturing the key arguments and points.
+
+### *Resources on paper writing* {#resources-on-paper-writing}
+
+* [Writing papers](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit#heading=h.lkr94zerp0kl) by Professor Eric Gilbert  
+* [Writing papers guide](https://www.smunson.com/teaching/writingpapers.php) by Professor Sean Munson  
+* [How to write better discussions](https://dbuschek.medium.com/how-to-write-better-discussions-for-your-hci-study-be851092f351) by Professor Daniel Buschek  
+* [Five tweets of excellent writing tips](https://twitter.com/rodriguesjm6/status/1436355550388932614?s=20) by Professor Rodrigues  
+* [How to write clear and concise sentences](https://twitter.com/jbhuang0604/status/1437931004451250176?s=11) by Professor Huang  
+* [Receiving feedback on writing by Dr. Karen Rosenberg](https://docs.google.com/document/d/11YQLeoOSiA6Dpp5SqXS8zvFdEeYjpxkZEFxv_rVqoWU/edit?usp=sharing), former Director of the Writing & Communication Center at the Bothell Campus
+
+### *TODO: need more on writing process.*  {#todo:-need-more-on-writing-process.}
+
+* Include different types of research contributions. Include different types of papers that can serve as templates  
+* Emphasize how iteration and practice is crucial. Give yourself time to write, rewrite x 10, and succeed.  
+* Sandy Kaplan and writing services within Allen School  
+* Often, junior students approach writing as they would a term paper in ugrad—it is left to the last moment. This approach will not succeed and does injustice to the underlying research. 
+
+* Join a writing group: [https://twitter.com/ThrivePhD/status/1433459109630824448?s=20](https://twitter.com/ThrivePhD/status/1433459109630824448?s=20). Provides structure and social support.
+
+* Making [Figure 1](https://maxwellforbes.com/posts/figure-creation-tutorial-making-a-figure-1)
+
+* Need info on how to make accessible PDFs, etc.
+
+## **Authorship order and inclusion criteria** {#authorship-order-and-inclusion-criteria}
+
+How is authorship order determined? Who should be listed as first author? Why does it matter? In computer science and HCI, the first author is often the lead PhD student on a project, the last author is the PI, and the remaining authors are ordered based on contribution size. It is best to establish authorship order early in a project’s existence and to communicate expectations with all team members. However, this is not always possible and certain authorship inclusions and orderings may remain fluid until paper submission.
+
+### *Determining authorship* {#determining-authorship}
+
+Generally, I lean towards an inclusive authorship heuristic: anyone who has provided clear and concrete contributions to a project from data analysis to system building to paper writing. We need to be honest with ourselves, our team, and have transparent discussions. 
+
+Official authorship inclusion guidelines are often less permissive. For example, the ACM’s [Criteria for Authorship](https://www.acm.org/publications/policies/authorship) states: 
+
+“*Anyone listed as Author on an ACM submission must meet **all** the following criteria:*
+
+* *They have made substantial intellectual contributions to some components of the original work described in the manuscript; and*  
+* *They have participated in drafting and/or revision of the manuscript and*  
+* *They are aware the manuscript has been submitted for publication; and*  
+* *They agree to be held accountable for any issues relating to correctness or integrity of the work*”
+
+Similarly, the [APA’s Publication Practices and Responsible Authorship](https://www.apa.org/research/responsible/publication) guide states:
+
+*“Authorship credit should reflect the individual's contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, or final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or contributing research but not helping with the publication itself. The primary author assumes responsibility for the publication, making sure that the data are accurate, that all deserving authors have been credited, that all authors have given their approval to the final draft; and handles responses to inquiries after the manuscript is published.”*
+
+[CASRAI](https://casrai.org/CRediT/) and the [National Information Standards Organization (NISO)](http://credit.niso.org/) has produced a taxonomy of 14 roles—called CRediT—that describe the typical scientific roles in scholarly output, including conceptualization, data curation, analysis, validation, visualization, and writing. We can refer to these contribution types when determining authorship decisions, as necessary.
+
+## **Writing rebuttals** {#writing-rebuttals}
+
+After submitting a paper and receiving reviews, HCI publication venues typically have two different processes for authorial responses (assuming the paper is not outright accepted): (1) revise and resubmit, which has been adopted by CHI and CSCW; (2) or a rebuttal process like at UIST and ASSETS.
+
+Writing rebuttals is hard: you are often space limited (to 5k characters) and must convincingly rebut reviewer criticism in hopes of changing minds. Plus, it is an *emotional* experience to read criticisms of your work, even if constructive. Remember, research is hard; this is a process. Your work is strong and strong work eventually finds a home. You can do this\! 🚀
+
+To help guide you in writing, please see these resources:
+
+* [Attributes of a Strong Rebuttal and Things to Avoid](https://docs.google.com/document/d/182ulQyd_377grr9VQ08akzHiUtqpXiys/edit?usp=drive_link&ouid=111759084570559606451&rtpof=true&sd=true), Jon E. Froehlich  
+* [Jeff’s Rebuttal Guide](https://jeffreybigham.com/blog/2019/jeffs-rebuttal-guide.html), Jeff Bigham  
+* [My Rebuttal-Writing Process for HCI Venues](https://cs.stanford.edu/~merrie/merrie_rebuttal_tips.pdf), Merrie Ringel Morris  
+* [Technical Paper Rebuttals Aren’t Just for “Factual Errors”](https://aaronhertzmann.com/2020/07/13/rebuttals.html), Aaron Hertzmann
+
+For process, the best advice I can give is to:
+
+* First analyze and synthesize your reviews. My students often use a spreadsheet or Google Doc to, essentially, generate an affinity diagram, which extracts and thematically groups primary criticisms.  
+* Second, write a draft rebuttal and iterate, iterate, iterate. Seek feedback from trusted colleagues. Iterate gain.  
+* Third and finally, be concrete and concise. See [Attributes of a Strong Rebuttal](https://docs.google.com/document/d/182ulQyd_377grr9VQ08akzHiUtqpXiys/edit?usp=drive_link&ouid=111759084570559606451&rtpof=true&sd=true) referenced above.
+
+Finally, we have a collection of [reviews and rebuttals from past papers](https://drive.google.com/drive/folders/1oC3kR41ynJaDjEWWRhRcEeo3LZSNeWUZ) (shared with permission). Please request access if you’d like to see them. Note: do not share these reviews or rebuttals as they are confidential.
+
+You might also benefit from the [Writing Reviews](#writing-reviews) section of our handbook.
